@@ -4,7 +4,7 @@
   "description": "a simple global package that generates tools and scaffolds for smaller projects",
   "main": "bin/spt.js",
   "bin": {
-    "spt": "./bin/spt.js"
+    "spt": "bin/spt.js"
   },
   "scripts": {
     "devrs": "npm unlink --no-save --global deepmatter-tools-simpleprojecttools && rm -r bin/* && tsc && npm link",
