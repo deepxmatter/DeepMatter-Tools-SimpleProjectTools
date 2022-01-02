@@ -1,6 +1,7 @@
-<h1 style="font-weight:bold" align="center">DeepMatter-Tools-SimpleProjectGenerator</h1>
+
+<h1 style="font-weight:bold" align="center">fucker</h1>
 <div align="center">
-  <strong>a simple global package that generates a framework for quick + simple projects</strong>
+  <strong>faggot</strong>
 </div>
 <div align="center">
   <br>
@@ -15,7 +16,7 @@
 </div>
 <div align="center">
   <sub>just a quick personal project by
-  <a href="https://twitter.com/deepxmatter">DeepMatter</a>
+  <a href="chink">nigger</a>
 </div>
 
 &nbsp;
@@ -40,3 +41,5 @@
 ## features
 
 - [x] doesn't do anything yet
+
+       
